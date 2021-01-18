@@ -1,0 +1,146 @@
+{
+  "enemydata": [
+    {
+      "name": "ねずみ",
+      "imagenum": 115,
+      "status": {
+        "atk": 1,
+        "HP": 10,
+        "nowHP": 10,
+        "MP": 10,
+        "nowMP": 10,
+        "def": 1,
+        "mag": 1,
+        "spd": 1,
+        "giveexp": 10
+      },
+      "description": "去年の遺物。",
+      "spawnlevel":[1,2,3]
+    },
+    {
+      "name": "マッドねずみ",
+      "imagenum": 116,
+      "status": {
+        "atk": 3,
+        "HP": 15,
+        "nowHP": 15,
+        "MP": 10,
+        "nowMP": 10,
+        "def": 3,
+        "mag": 1,
+        "spd": 1,
+        "giveexp": 10
+      },
+      "description": "凶暴な去年の遺物。",
+      "spawnlevel":[4,5,6]
+    },
+    {
+      "name": "フルメタルねずみ",
+      "imagenum": 118,
+      "status": {
+        "atk": 3,
+        "HP": 10,
+        "nowHP": 10,
+        "MP": 10,
+        "nowMP": 10,
+        "def": 10,
+        "mag": 1,
+        "spd": 1,
+        "giveexp": 10
+      },
+      "description": "鋼鉄の去年の遺物。",
+      "spawnlevel":[7,8,9]
+    },
+    {
+      "name": "子牛",
+      "imagenum": 137,
+      "status": {
+        "atk": 5,
+        "HP": 10,
+        "nowHP": 10,
+        "MP": 10,
+        "nowMP": 10,
+        "def": 5,
+        "mag": 1,
+        "spd": 1,
+        "giveexp": 10
+      },
+      "description": "どっちだよ",
+      "spawnlevel":[3,4,5,6,7,8,9]
+    },
+    {
+      "name": "牛",
+      "imagenum": 134,
+      "status": {
+        "atk": 20,
+        "HP": 100,
+        "nowHP": 100,
+        "MP": 10,
+        "nowMP": 10,
+        "def": 10,
+        "mag": 1,
+        "spd": 1,
+        "giveexp": 10
+      },
+      "description": "うし年なのでね。",
+      "spawnlevel":[9,10]
+    }
+  ],
+  "levelstatusdata": [
+    {
+      "atk": 2,
+      "HP": 10,
+      "nowHP": 10,
+      "MP": 10,
+      "nowMP": 10,
+      "def": 2,
+      "mag": 2,
+      "spd": 2,
+      "nextexp": 100
+    },
+    {
+      "atk": 4,
+      "HP": 13,
+      "nowHP": 13,
+      "MP": 13,
+      "nowMP": 13,
+      "def": 4,
+      "mag": 4,
+      "spd": 2,
+      "nextexp": 150
+    },
+    {
+      "atk": 6,
+      "HP": 17,
+      "nowHP": 17,
+      "MP": 17,
+      "nowMP": 17,
+      "def": 6,
+      "mag": 6,
+      "spd": 2,
+      "nextexp": 170
+    },
+    {
+      "atk": 9,
+      "HP": 23,
+      "nowHP": 23,
+      "MP": 17,
+      "nowMP": 17,
+      "def": 9,
+      "mag": 9,
+      "spd": 2,
+      "nextexp": 170
+    },
+    {
+      "atk": 13,
+      "HP": 28,
+      "nowHP": 28,
+      "MP": 17,
+      "nowMP": 17,
+      "def": 13,
+      "mag": 9,
+      "spd": 2,
+      "nextexp": 170
+    }
+  ]
+}
